@@ -5,3 +5,5 @@ In particolare si e' sviluppato un programma basato su un algoritmo meta euristi
 2. Capire come disegnare programmaticamente un’immagine utilizzando i poligoni.
 3. Scoprire come confrontare sistematicamente due immagini.
 4. Usare l’algoritmo ILS, in combinazione con le librerie di elaborazione delle immagini, per ricostruire un’immagine usando i poligoni.
+
+Per ulteriori dettagli consultare il [report.](https://github.com/pierpaologumina/AIExam/blob/main/report_ia.pdf)
